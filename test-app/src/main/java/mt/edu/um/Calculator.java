@@ -1,4 +1,4 @@
-package mt.edu.um.janet;
+package mt.edu.um;
 
 public class Calculator {
 	
